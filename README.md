@@ -1,8 +1,6 @@
-# VirtualBookshelf
-Java Application Using OOD
-
 # *My Virtual Bookshelf*
 ##### Anahat Nagra
+Java Application Using OOD
 
 ## Overview
 
