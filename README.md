@@ -41,16 +41,8 @@ This is an application that can be a very helpful tool used to arrange and organ
 - As a user, I want to be able to save the list of books I've read to file
 - As a user, I want to be able to be able to load the list of books I've read so far from file 
 
-## Phase 4: Task 2
 
-Wed Mar 30 16:41:21 PDT 2022 <br>
-Book was added to the library <br>
-Wed Mar 30 16:41:27 PDT 2022 <br>
-Book was added to the library <br>
-Wed Mar 30 16:41:29 PDT 2022 <br>
-Book was removed from the library <br>
-
-## Phase 4: Task 3
+## Possible Improvements
 
 The design for my program is fairly good but there are still things I can do to increase cohesion.
 For example, I think I could have added the list of book recommendations for each genre in the Genre class instead of 
