@@ -14,8 +14,8 @@ recommended similar books to the ones they like.
 As mentioned in the overview, the main functionality of this app is to
 allow the people using it to have an organized record of the books that they've read.
 As they record their most recent read, the user will be prompted to give the book a personal rating out of 5 stars, 
-select the genre(s) of that book, and give a short review. After adding the book to their record,
-they will also have the option to be recommended books that they might like (based on their highest rated genre)
+select the genre(s) of that book, and give a short review. In this application, the user
+will also have the option to be recommended books that they might like (based on their highest rated genre)
 
 
 #### *Who will use this app?*
