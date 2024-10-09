@@ -15,7 +15,7 @@ As mentioned in the overview, the main functionality of this app is to
 allow the people using it to have an organized record of the books that they've read.
 As they record their most recent read, the user will be prompted to give the book a personal rating out of 5 stars, 
 select the genre(s) of that book, and give a short review. After adding the book to their record,
-they will also have to option to be recommended books that they might like (based on what rating they have their most recent read)
+they will also have to option to be recommended books that they might like (based on their highest rated genre)
 
 
 #### *Who will use this app?*
@@ -41,12 +41,3 @@ This is an application that can be a very helpful tool used to arrange and organ
 - As a user, I want to be able to save the list of books I've read to file
 - As a user, I want to be able to be able to load the list of books I've read so far from file 
 
-
-## Possible Improvements
-
-The design for my program is fairly good but there are still things I can do to increase cohesion.
-For example, I think I could have added the list of book recommendations for each genre in the Genre class instead of 
-the Book class. This would improve the SRP because the Genre class would be responsible for the book recommendations 
-based off of the genre, rather than the Book class, which would make more sense. (I could refactor this by moving the 
-recommendations methods into the genre enum class). I also have a lot of duplicate code in my main GUI and the 
-ViewLibrary GUI, so what I could do to improve that is identify the duplicates and pull them into methods.
